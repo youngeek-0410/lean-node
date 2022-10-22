@@ -1,4 +1,4 @@
-# lean-node
+# learn-node
 Node.js 勉強メモ、メンバー間で知見を共有する
 
 テーマごとに Discussion を立てる
